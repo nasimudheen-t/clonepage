@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* .c-item{
+
+    height: 280px;
+}
+.c-image{
+    height: 100%;
+} */
+ .card-items{
+    display: flex;
+   justify-content: space-around;
+ }
+ .c-imagwe{
+    width: 180px;
+ }
+ .c-pic{
+    width: 80%;
+ }
+ .card-items{
+    margin-top: 30px;
+ }
+ .card{
+    transition: .6s;
+ }
+ .card:hover{
+    transform: scale(1.2);
+ }
+ .heading1{
+    margin-left: 20px;
+    margin-top: 20px;
+ }
+ .fecstival-section{
+    margin-top: 20px;
+ }
+ .offer{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    margin-bottom: 10px;
+ }
+ .offer2{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    margin-bottom: 10px;
+ }
+ .brand-collection{
+ }
+ .Featured-Brands{
+    margin: 20px;
+    display: flex;
+    gap: 20px;
+ }
+ .image-adjust{
+    width: 290px;
+ }
+ .size-img{
+    width: 100%;
+ }
+
+.edit-img{
+   width: 300px;
+}
+.image-edit{
+   width: 100%;
+}
+.hover-col:hover{
+   transform: scale(1.1);
+}
+.texts{
+   margin-left: 20px;
+}
+.para-gr{
+   margin-left: 20px;
+}
